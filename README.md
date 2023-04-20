@@ -34,7 +34,7 @@
 | archit-clean               | <img src="./img/archit-clean.png" width="50px">               |
 | archit-mvc                 | <img src="./img/archit-mvc.png" width="50px">                 |
 | archit-mvvm                | <img src="./img/archit-mvvm.png" width="50px">                |
-| archit-ruby-onion          | <img src="./img/archit-ruby-onion.png" width="50px">         |
+| archit-ruby-onion          | <img src="./img/archit-ruby-onion.png" width="50px">          |
 | widget-stless              | <img src="./img/widget-stless.png" width="50px">              |
 | widget-stful               | <img src="./img/widget-stful.png" width="50px">               |
 | widget-consumer            | <img src="./img/widget-consumer.png" width="50px">            |
@@ -65,3 +65,4 @@
 | provider-family            | <img src="./img/provider-family.png" width="50px">            |
 | provider-scope             | <img src="./img/provider-scope.png" width="50px">             |
 | override-with              | <img src="./img/override-with.png" width="50px">              |
+| rubydog                    | <img src="./img/rubydog.png" width="50px">                    |
