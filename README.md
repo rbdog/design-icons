@@ -34,7 +34,7 @@
 | archit-clean               | <img src="./img/archit-clean.png" width="50px">               |
 | archit-mvc                 | <img src="./img/archit-mvc.png" width="50px">                 |
 | archit-mvvm                | <img src="./img/archit-mvvm.png" width="50px">                |
-| archit-ruby-onion          | <img src="./img/archit-rbdog-onion.png" width="50px">         |
+| archit-ruby-onion          | <img src="./img/archit-ruby-onion.png" width="50px">         |
 | widget-stless              | <img src="./img/widget-stless.png" width="50px">              |
 | widget-stful               | <img src="./img/widget-stful.png" width="50px">               |
 | widget-consumer            | <img src="./img/widget-consumer.png" width="50px">            |
